@@ -1,0 +1,15 @@
+{
+  "name": "send-email",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "6.4.6",
+    "pug": "^2.0.4"
+  },
+  "description": "Envio de emails com Node.js (usando Nodemailer)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Aguiar"
+}
